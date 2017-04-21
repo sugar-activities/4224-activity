@@ -1,0 +1,8 @@
+[Activity]
+name = Kaleidoscope
+activity_version = 12
+host_version = 1
+bundle_id = org.squeak.KaleidoscopeActivity
+icon = kaleidoscope-icon
+exec = kaleidoscope.sh
+show_launcher = yes
